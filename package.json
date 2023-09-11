@@ -1,6 +1,6 @@
 {
   "name": "viapi",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vishota/package_template.git"
+    "url": "git+https://github.com/Vishota/viapi.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vishota/package_template/issues"
+    "url": "https://github.com/Vishota/viapi/issues"
   },
-  "homepage": "https://github.com/Vishota/package_template#readme",
+  "homepage": "https://github.com/Vishota/viapi#readme",
   "devDependencies": {
     "@types/express": "^4.17.17",
     "typescript": "^5.2.2"
